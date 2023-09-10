@@ -29,6 +29,7 @@ data = np.array([[1, 2, 3],
                  [7, 8, 9],
                  [np.nan, 11, 12]])
 ```
+Also, there is an example on 'fetch_california_housing' dataset in the KNNImputer_Handling Missing Values.ipynb.
 				 
 ### Step 3: Initialize KNNImputer
 Initialize the KNNImputer object with the desired number of neighbors (k) and other optional parameters:
